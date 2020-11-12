@@ -20,3 +20,7 @@ npm install
 ```sh
 npm start
 ```
+**Remark**
+
+Since this is a app to display data only and there is a single button to refresh the page,
+react-redux and react-saga are not used for handling state management and side effects.
