@@ -1,10 +1,22 @@
-# React Redux Comments Manager
-Simple app to add, edit, delete comments
-### Install Dependencies
+# A simple ReactJs App for data display of Fx Trades 
+
+## How to use
+
+**1. Download sources**
+
+```sh
+In your working folder, run this command:
+
+git clone https://github.com/samhkwest/fxtradeapp
+```
+
+**2. Install Dependencies**
+
 ```sh
 npm install
 ```
-### Run development
+** 3. Run development**
+
 ```sh
-npm run start
+npm start
 ```
