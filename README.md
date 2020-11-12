@@ -15,7 +15,7 @@ git clone https://github.com/samhkwest/fxtradeapp
 ```sh
 npm install
 ```
-** 3. Run development**
+**3. Start application**
 
 ```sh
 npm start
