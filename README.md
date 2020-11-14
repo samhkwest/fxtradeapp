@@ -22,8 +22,8 @@ npm start
 ```
 **Remark**
 
-Since this is a app to display data only and there is a single button to refresh the page,
-react-redux and react-saga are not used for handling state management and side effects.
+Since this app is used to display data only and contains one single button only to refresh the page.
+For simplicity, react-redux and react-saga are not used for handling state management and side effects.
 
 ## How to test
 
