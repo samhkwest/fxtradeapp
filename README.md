@@ -46,4 +46,6 @@ Use Postman to send POST fxtrade message to the controller, and then click the b
 
 ```
 
+![fxtradeapp](https://github.com/samhkwest/mydoc/blob/master/fxtradeapp.PNG)
+
 
