@@ -42,7 +42,8 @@ When fxtradeapp is loaded in browser (default browser is Chrome), a table of Fx 
 **3. Test the app**
 
 ```sh
-Use Postman to send POST fxtrade message to the controller, and then click the button "Refresh" to check the newly added Fx trade record.
+Use Postman to send POST fxtrade message to the controller, and then click the button "Refresh" 
+to check the newly added Fx trade record.
 
 ```
 
