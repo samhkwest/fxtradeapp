@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import PropTypes from 'prop-types';
+import { $CombinedState } from "redux";
 
 class FxTrade extends React.Component{
 	constructor(props) {
@@ -37,9 +38,8 @@ class FxTrade extends React.Component{
 
 	render() {		
 		return (	
-		<html>
 			<div>
-				<table>
+				<table id="fxtradde">
 				<thead>
 				<tr>
 					<th>Id</th>
@@ -74,8 +74,6 @@ class FxTrade extends React.Component{
 				<br/>
 				<button type="button" onClick={(e) => this.refreshFxTradesTbl(e)}>Refresh</button>
 			</div>
-		</html>
-
 		);
 	}
 	
